@@ -552,7 +552,7 @@ footer p{
 		min-height: 400px; 
 	}
 .form-inline button{
-	margin-top: 20px;
+	margin-top: 15px;
 }
 .service{
 	text-align: center;
@@ -565,6 +565,10 @@ footer p{
 }
 .subscribe-section p{
 	font-size: 18px;
+}
+.subscribe-section .row {
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 footer{
 	text-align: center;
