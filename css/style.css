@@ -406,7 +406,6 @@ footer p{
     margin: 40px 0;
 }
 .footer-menu{
-    margin-left: 55px !important;
 }
 .footer-menu li{}
 .footer-menu li a{
@@ -554,8 +553,9 @@ footer p{
 .form-inline button{
 	margin-top: 15px;
 }
-.service{
-	text-align: center;
+.service {
+    text-align: center;
+    background: #ffffff5e;
 }
 .service-section {
     padding: 50px 0;
