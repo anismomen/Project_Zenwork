@@ -566,6 +566,13 @@ footer p{
 .subscribe-section p{
 	font-size: 18px;
 }
+.banner-content {
+    margin-top: 100px;
+}
+.banner-content h1 {
+    font-size: 30px;
+  }
+
 .subscribe-section .row {
     padding-top: 45px;
     padding-bottom: 45px;
